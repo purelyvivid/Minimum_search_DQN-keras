@@ -17,6 +17,7 @@
 - Environment
 
   - Create one with some random coefficient, the minimum appear at x=4 
+  - Assume it's unknown 
 
      ![alt text](./env.png)
 
