@@ -6,7 +6,7 @@
 
 - Objective
 
-  - find the minimum in an unknown function 
+  - Find the minimum of an unknown function 
 
 - Toolkit
 
