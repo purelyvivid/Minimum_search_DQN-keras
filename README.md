@@ -18,7 +18,7 @@
 
   - Create one with some random coefficient, the minimum appear at x=4 
 
-     ![alt text](./fig/env.png)
+     ![alt text](./env.png)
 
   - action_space = [ '+', '-' ] ,   `0` : go right , `1` : go left
 
@@ -32,7 +32,7 @@
 
   - Loss is not stable
 
-  ![alt text](./fig/loss.png)
+  ![alt text](./loss.png)
 
 - Future Work 
 
